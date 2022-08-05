@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-Sig2Application<Sig4>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.fatec.SIG2.Sig2Application",
+            "projectName": "Sig4",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
